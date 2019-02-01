@@ -1,0 +1,16 @@
+@import './node_modules/compass-mixins/lib/_compass.scss';
+
+$fondo:#bc3b69;
+
+.color-header{
+    background: $fondo;
+    height: 59px;
+    input {
+    margin-top: 14px;
+    width: 700px;
+    height: 20px;
+    margin-left: 309px;
+    border-radius:1px 
+    }
+}
+
